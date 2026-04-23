@@ -1,4 +1,4 @@
-# Hey, I'm Damian 👋
+# Hey, I'm Damian 
 
 I'm an Apprentice Application Developer at Heidelberger Druckmaschinen AG, 
 based in Germany. I'm passionate about solving problems, automating things 
@@ -6,7 +6,7 @@ and building stuff in the Cloud, Data & AI space.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,7 +16,7 @@ and building stuff in the Cloud, Data & AI space.
 
 ---
 
-## 🚀 What I'm currently working on
+##  What I'm currently working on
 
-- 📚 Finishing my apprenticeship as Software Engineer
-- ☁️ Learning more about Cloud & AI
+-  Finishing my apprenticeship as Software Engineer
+-  Learning more about Cloud & AI
